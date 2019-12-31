@@ -1,4 +1,4 @@
-# blockchain
+# Blockchain
 Programming ethereum smart contracts
 
 ## In these repository I will be uploading what I learn about the Ethereum smart contracts.
